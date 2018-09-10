@@ -1,6 +1,6 @@
 token=NDg4MzI5MTE5NzcyNDQyNjM0.DnbskQ.uPoEbVdtBD7xVF6XAiEh1JSXpfQ
 owner=450133031668154368
 prefix=-
-game=PUBG Bots!
+game=GameNation Bots!
 stayinchannel=true
 songinstatus=true
